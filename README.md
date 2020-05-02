@@ -9,7 +9,7 @@
   </a>
 </p>
 
-> Just training some ideas
+> Just training some ideas of a reusable UI component with very little complexity.
 <p align="center"><img src="https://i.gyazo.com/09955cac7b2c8425710f6b64ddbf630e.gif" alt="Gif de Exemplo"></p>
 
 ---
@@ -17,6 +17,7 @@
 ## Usage
 
 clone, navigate to folder and start server with
+
 ```sh
  npx lite-server
 ```
